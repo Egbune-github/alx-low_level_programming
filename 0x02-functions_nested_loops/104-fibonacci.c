@@ -1,10 +1,8 @@
 #include <stdio.h>
-
 /**
   * main - print the first 98 fibonacci numbers.
   * Return: Nothing.
   */
-
 int main(void)
 {
 	int count;
