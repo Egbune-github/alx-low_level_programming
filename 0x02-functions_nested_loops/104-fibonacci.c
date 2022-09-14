@@ -16,9 +16,9 @@ int main(void)
 	b = 1;
 	for (count = 1; count <= 91; count++)
 	{
+		c = a + b;
 		a = b;
 		b = c;
-		c = a + b;
     printf("%lu, ", c);
 	}
 	x = a % 1000;
