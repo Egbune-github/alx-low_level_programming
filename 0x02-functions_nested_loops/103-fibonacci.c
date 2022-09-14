@@ -6,6 +6,7 @@
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
 	unsigned long x1 = 0, x2 = 1, xsum;
