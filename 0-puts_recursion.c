@@ -1,17 +1,17 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * _puts_recursion - function like puts();
- * @s: input
+ * _memset - Entry point
+ * @s: pointed destination
+ * @b: constant byte
+ * @n: bytes
  * Return: Always 0 (Success)
  */
-void _puts_recursion(char *s)
+char *_memset(char *s, char b, unsigned int n)
 {
-	if (*s == '\0')
-		_putchar('\n');
-	else
-	{
-		_putchar(*s);
-		_puts_recursion(s + 1);
-	}
+	unsigned int i;
+
+	for (i = 0; i < n; i++)
+		s[i] = b;
+	return (s);
 }
