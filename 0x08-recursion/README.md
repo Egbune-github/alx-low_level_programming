@@ -1,6 +1,7 @@
-x08. C - Recursion
+my 0x08. C - Recursion Task
 
-* What is recursion
-* How to implement recursion
-* In what situations you should implement recursion
-* In what situations you shouldnt implement recursion
+invoving:
+* recursion
+* implement recursion
+* situations you should implement recursion
+* situations you shouldnt implement recursion
