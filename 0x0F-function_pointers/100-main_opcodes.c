@@ -3,7 +3,6 @@
 
 /**
  * main - program that prints the opcodes of its own main function
- *
  * @argc: Counts the number of parameters that go into main
  * @argv: Pointer of array of pointers containing strings entering main
  *
