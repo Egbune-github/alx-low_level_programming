@@ -5,9 +5,9 @@
  * sum_them_all -  sums all arguments variadic
  * @n: Number of Arguments
  * @...: Arguments Variadic
- *
  * Return: sum of its parameters
  */
+
 int sum_them_all(const unsigned int n, ...)
 {
 	unsigned int sum = 0, i;
