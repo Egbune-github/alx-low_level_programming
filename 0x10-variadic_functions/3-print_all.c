@@ -4,7 +4,6 @@
 /**
  * tchar - prints variadic argument char
  * @list: variadic list
- *
  * Return: No return
  */
 void tchar(va_list list)
