@@ -6,7 +6,6 @@
  * @separator: String to be printed between strings
  * @n: number of variadic arguments
  * @...: Arguments Variadic
- *
  * Return: No return
  */
 void print_strings(const char *separator, const unsigned int n, ...)
