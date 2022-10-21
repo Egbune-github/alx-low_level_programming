@@ -6,7 +6,6 @@
 /**
  * free_list - frees memory of a list
  * @head: pointer to head of singly linked list
- *
  * Return: No Return
  */
 void free_list(list_t *head)
