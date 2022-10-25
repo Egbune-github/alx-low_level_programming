@@ -5,7 +5,6 @@
 /**
  * print_listint - prints a singly linked list
  * @h: pointer to head of singly linked list
- *
  * Return: Number of elements in list
  */
 size_t print_listint(const listint_t *h)
